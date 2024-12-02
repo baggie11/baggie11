@@ -4,7 +4,7 @@ A coding enthusiast from Chennai!
 
 - 🔭 I’m currently exploring Machine Learning and Generative AI.
 - 👯 I’m looking to collaborate on Web Development , App development.
-- 💬 Ask me about Python , MERN , Flutter , Java.
+- 💬 Ask me about Python , MERN , Flutter , Java , Django.
 - 📫 How to reach me: bagavati2310098@ssn.edu.in
 
 
