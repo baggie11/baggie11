@@ -10,7 +10,8 @@ A coding enthusiast from Chennai!
 Connect with me:
 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/bagavati-narayanan-98484b292)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bagavati-narayanan-98484b292/)
+
 
 
 
