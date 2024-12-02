@@ -1,6 +1,6 @@
 ## Hi👋 , I'm Bagavati!
 
-A a coding enthusiast from Chennai!
+A coding enthusiast from Chennai!
 
 - 🔭 I’m currently exploring Machine Learning and Generative AI.
 - 👯 I’m looking to collaborate on Web Development , App development.
@@ -15,6 +15,8 @@ Languages and Tools:
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=baggie11)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=baggie11&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
 <!--
 **baggie11/baggie11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
