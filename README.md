@@ -8,7 +8,7 @@ A a coding enthusiast from Chennai!
 - 📫 How to reach me: bagavati2310098@ssn.edu.in
 
 Connect with me:
-www.linkedin.com/in/bagavati-narayanan-98484b292
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 
 Languages and Tools:
 
