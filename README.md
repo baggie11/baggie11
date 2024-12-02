@@ -12,6 +12,9 @@ Languages and Tools:
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,mysql,react,nodejs,postman,mongodb,python,bootstrap,django,flask,opencv,firebase,c)](https://skillicons.dev)
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=baggie11)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **baggie11/baggie11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
