@@ -13,7 +13,7 @@ www.linkedin.com/in/bagavati-narayanan-98484b292
 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,mysql,react,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,mysql,react,nodejs)](https://skillicons.dev)
 
 
 [![My Skills](https://skillicons.dev/icons?i=postman,mongodb,python,bootstrap)](https://skillicons.dev)
