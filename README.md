@@ -7,10 +7,6 @@ A a coding enthusiast from Chennai!
 - 💬 Ask me about Python , MERN , Flutter , Java.
 - 📫 How to reach me: bagavati2310098@ssn.edu.in
 
-Connect with me:
-
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/bagavati-narayanan-98484b292)
 
 Languages and Tools:
 
