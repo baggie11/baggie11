@@ -13,7 +13,7 @@ www.linkedin.com/in/bagavati-narayanan-98484b292
 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,mysql,react,nodejs,postman,mongodb,python,bootstrap,django,flask,opencv)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,mysql,react,nodejs,postman,mongodb,python,bootstrap,django,flask,opencv,firebase,c)](https://skillicons.dev)
 <!--
 **baggie11/baggie11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
