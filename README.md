@@ -18,7 +18,7 @@ Connect with me:
 Languages and Tools:
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,flutter,mysql,react,nodejs,postman,mongodb,python,bootstrap,django,flask,opencv,firebase,c)]
+(https://skillicons.dev/icons?i=js,html,css,java,flutter,mysql,react,nodejs,postman,mongodb,python,bootstrap,django,flask,opencv,firebase,c)
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=baggie11)](https://github.com/anuraghazra/github-readme-stats)
