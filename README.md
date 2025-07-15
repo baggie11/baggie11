@@ -35,6 +35,13 @@ Connect with me:
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+# 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/baggie11/virtual-photobooth">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=virtual-photobooth&theme=react" />
+  </a>
+</p>
 
 
 
