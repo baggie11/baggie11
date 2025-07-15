@@ -51,18 +51,10 @@ Connect with me:
 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=baggie11)](https://github.com/anuraghazra/github-readme-stats)
+# 📈 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=baggie11&theme=algolia&show_icons=true)](https://github.com/saifurrahman1193)
-<!--
-**baggie11/baggie11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=baggie11&show_icons=true&theme=react" alt="GitHub Stats" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baggie11&layout=compact&theme=react&langs_count=8" alt="Most Used Languages" style="display: inline-block; vertical-align: top;" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=baggie11&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+</p>
