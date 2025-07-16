@@ -34,23 +34,6 @@ Connect with me:
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
-
-# 🌟 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/baggie11/virtual-photobooth">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=virtual-photobooth&theme=react" />
-  </a>
-  <a href="https://github.com/baggie11/Ask_your_Bookmarks">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=Ask_your_Bookmarks&theme=react" />
-  </a>
-   <a href="https://github.com/baggie11/ML-Buddy">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=ML-Buddy&theme=react" />
-  </a>
-</p>
-
-
-
 # 📈 GitHub Stats
 
 <p align="center">
