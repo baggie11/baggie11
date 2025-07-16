@@ -2,9 +2,8 @@
 
 A coding enthusiast from Chennai!
 
-- 🔭 I’m currently exploring Machine Learning and Generative AI.
-- 👯 I’m looking to collaborate on Web Development , App development.
-- 💬 Ask me about Python , MERN , Flutter , Java , Django.
+- 👯 I’m looking to collaborate on Web Development , ML, DL and LLMs.
+- 💬 Ask me about Python , MERN , Java , Django,Flask, FastAPI, Langchain.
 - 📫 How to reach me: bagavati2310098@ssn.edu.in
 
 Connect with me:
