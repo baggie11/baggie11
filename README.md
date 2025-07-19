@@ -163,15 +163,6 @@ class BagavatiNarayanan:
 ---
 
 <div align="center">
-  
-### 💭 **Random Dev Quote**
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
----
-
-<div align="center">
 
 **⭐ From [baggie11](https://github.com/baggie11) | Made with ❤️ and lots of ☕**
 
