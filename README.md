@@ -1,18 +1,51 @@
-<div align="center">
-  <h2>Hi👋 , I'm Bagavati!</h2>
-  <p>A coding enthusiast from Chennai!</p>
+<div align="center" style="
+    background: linear-gradient(135deg, #f8f9fa, #e3f2fd);
+    border-radius: 15px;
+    padding: 30px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    width: 80%;
+    margin: auto;
+    font-family: 'Segoe UI', sans-serif;
+">
+  
+  <h2 style="
+      background: linear-gradient(90deg, #0073e6, #00c6ff);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      font-size: 2.2em;
+      margin-bottom: 10px;
+  ">
+    Hi 👋, I'm Bagavati!
+  </h2>
 
-  <ul style="list-style-type:none; padding:0; font-size:16px; line-height:1.8;">
-    <li>👯 I’m looking to collaborate on <b>Web Development, ML, DL and LLMs</b>.</li>
-    <li>💬 Ask me about <b>Python, MERN, Java, Django, Flask, FastAPI, Langchain</b>.</li>
-    <li>📫 How to reach me: <a href="mailto:bagavati2310098@ssn.edu.in" style="color:#0073e6; text-decoration:none;">bagavati2310098@ssn.edu.in</a></li>
+  <p style="font-size: 18px; color:#333; margin-bottom: 20px;">
+    A passionate <b>coding enthusiast</b> from Chennai 🚀
+  </p>
+
+  <ul style="
+      list-style-type:none;
+      padding:0;
+      font-size:16px;
+      line-height:1.8;
+      color:#444;
+      text-align: left;
+      max-width: 500px;
+      margin: auto;
+  ">
+    <li>👯 Looking to collaborate on <b>Web Development, ML, DL, and LLMs</b></li>
+    <li>💬 Ask me about <b>Python, MERN, Java, Django, Flask, FastAPI, Langchain</b></li>
+    <li>📫 How to reach me: <a href="mailto:bagavati2310098@ssn.edu.in" style="color:#0073e6; text-decoration:none; font-weight:bold;">Email Me</a></li>
   </ul>
 
-  <h3>Connect with me:</h3>
-  <a href="https://www.linkedin.com/in/bagavati-narayanan-98484b292/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width:50px; margin:10px;">
-  </a>
+  <h3 style="margin-top: 25px; color:#0073e6;">Connect with me:</h3>
+  <div style="margin-top: 10px;">
+    <a href="https://www.linkedin.com/in/bagavati-narayanan-98484b292/" target="_blank" style="text-decoration:none;">
+      <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width:55px; margin:10px; transition: transform 0.3s;">
+    </a>
+  </div>
+
 </div>
+
 
 
 
