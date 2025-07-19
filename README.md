@@ -24,7 +24,7 @@ class BagavatiNarayanan:
     def __init__(self):
         self.name = "Bagavati Narayanan"
         self.location = "Chennai, India 🇮🇳"
-        self.education = "Computer Science Student"
+        self.education = "Information Technology Student"
         self.interests = [
             "Full Stack Development",
             "Machine Learning & AI",
@@ -32,12 +32,6 @@ class BagavatiNarayanan:
             "Web Technologies"
         ]
     
-    def get_current_focus(self):
-        return {
-            "learning": ["Advanced ML", "LLM Development"],
-            "building": ["Web Applications", "AI Tools"],
-            "exploring": ["Langchain", "FastAPI"]
-        }
 ```
 
 <br clear="right"/>
@@ -61,7 +55,7 @@ class BagavatiNarayanan:
 
 ### 💬 **Ask Me About:**
 - 🐍 **Python** & **Java** Development
-- ⚛️ **React** & **Node.js**
+- ⚛️ **React**, **Node.js**, **Next.js**
 - 🚀 **Django**, **Flask**, **FastAPI**
 - 🦜 **Langchain** & **AI Integration**
 
@@ -77,17 +71,17 @@ class BagavatiNarayanan:
 
 ### **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css" />
 </p>
 
 ### **Frontend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap,sass" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap" />
 </p>
 
 ### **Backend Development**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,spring" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi" />
 </p>
 
 ### **Database & Cloud**
@@ -97,14 +91,14 @@ class BagavatiNarayanan:
 
 ### **AI/ML & Data Science**
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,sklearn" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45"/>
 </p>
 
 ### **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 </div>
@@ -144,21 +138,11 @@ class BagavatiNarayanan:
 
 ---
 
-## 🎵 **Currently Vibing To**
-
-<div align="center">
-  
-[![Spotify](https://novatorem-baggie11.vercel.app/api/spotify)](https://open.spotify.com/user/username)
-
-</div>
-
----
-
 ## 🌟 **Featured Projects**
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=your-best-repo&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/your-best-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=virtual-photobooth&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/your-best-repo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=another-great-repo&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/another-great-repo)
 
 </div>
