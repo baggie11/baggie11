@@ -1,22 +1,17 @@
-<div align="center" style="
-    background: linear-gradient(135deg, #f8f9fa, #e3f2fd);
-    border-radius: 15px;
-    padding: 30px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    width: 80%;
-    margin: auto;
-    font-family: 'Segoe UI', sans-serif;
-">
-  
-  <h2 style="
-      background: linear-gradient(90deg, #0073e6, #00c6ff);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-      font-size: 2.2em;
-      margin-bottom: 10px;
-  ">
-    Hi 👋, I'm Bagavati!
-  </h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/banner.png" alt="header" width="100%"/>
+</div>
+
+# 👋 Hello, I'm Bagavati Narayanan
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bagavati-narayanan-98484b292/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bagavati2310098@ssn.edu.in">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+</p>
 
   <p style="font-size: 18px; color:#333; margin-bottom: 20px;">
     A passionate <b>coding enthusiast</b> from Chennai 🚀
