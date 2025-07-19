@@ -143,7 +143,7 @@ class BagavatiNarayanan:
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=virtual-photobooth&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/your-best-repo)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=another-great-repo&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/another-great-repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=baggie11&repo=Ask_your_Bookmarks&theme=radical&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=ffffff)](https://github.com/baggie11/another-great-repo)
 
 </div>
 
@@ -159,14 +159,6 @@ class BagavatiNarayanan:
 <a href="mailto:bagavati2310098@ssn.edu.in">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-<a href="https://twitter.com/yourusername">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-</a>
-<a href="https://discord.gg/yourdiscord">
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
-
-</div>
 
 ---
 
