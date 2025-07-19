@@ -179,6 +179,5 @@ class BagavatiNarayanan:
 
 </div>
 
----
 
 
