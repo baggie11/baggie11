@@ -1,15 +1,19 @@
-## Hi👋 , I'm Bagavati!
+<div align="center">
+  <h2>Hi👋 , I'm Bagavati!</h2>
+  <p>A coding enthusiast from Chennai!</p>
 
-A coding enthusiast from Chennai!
+  <ul style="list-style-type:none; padding:0; font-size:16px; line-height:1.8;">
+    <li>👯 I’m looking to collaborate on <b>Web Development, ML, DL and LLMs</b>.</li>
+    <li>💬 Ask me about <b>Python, MERN, Java, Django, Flask, FastAPI, Langchain</b>.</li>
+    <li>📫 How to reach me: <a href="mailto:bagavati2310098@ssn.edu.in" style="color:#0073e6; text-decoration:none;">bagavati2310098@ssn.edu.in</a></li>
+  </ul>
 
-- 👯 I’m looking to collaborate on Web Development , ML, DL and LLMs.
-- 💬 Ask me about Python , MERN , Java , Django,Flask, FastAPI, Langchain.
-- 📫 How to reach me: bagavati2310098@ssn.edu.in
+  <h3>Connect with me:</h3>
+  <a href="https://www.linkedin.com/in/bagavati-narayanan-98484b292/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="width:50px; margin:10px;">
+  </a>
+</div>
 
-Connect with me:
-
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/bagavati-narayanan-98484b292/)
 
 
 # 🧰 Tech Stack
