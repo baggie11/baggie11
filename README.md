@@ -2,7 +2,6 @@
 
 # 👋 Hello, I'm **Bagavati Narayanan**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;AI+%26+LLM+Explorer+%F0%9F%A7%A0;From+Chennai%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
