@@ -24,6 +24,16 @@ Software Engineer passionate about building scalable systems and intelligent app
   </a>
 </p>
 
+
+
+<p align="center">
+  <a href="https://github.com/baggie11/virtual-photobooth">
+    <img src="https://opengraph.githubassets.com/1/baggie11/virtual-photobooth"
+         width="600"
+         alt="Anchor Repository Preview"/>
+  </a>
+</p>
+
 ## Connect with me
 
 <p align="left">
