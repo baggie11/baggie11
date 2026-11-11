@@ -15,24 +15,50 @@ Software Engineer passionate about building scalable systems and intelligent app
 - 💬 Ask me about **LLMs, Distributed Systems, RL**
 
 ## Featured Projects
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/baggie11/Ask_your_Bookmarks">
-    <img src="https://opengraph.githubassets.com/1/baggie11/Ask_your_Bookmarks"
-         width="600"
-         alt="Anchor Repository Preview"/>
-  </a>
-</p>
-
-
-
-<p align="center">
-  <a href="https://github.com/baggie11/virtual-photobooth">
-    <img src="https://opengraph.githubassets.com/1/baggie11/virtual-photobooth"
-         width="600"
-         alt="Anchor Repository Preview"/>
-  </a>
-</p>
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/baggie11/Ask_your_Bookmarks">
+        <img src="https://opengraph.githubassets.com/1/baggie11/Ask_your_Bookmarks" width="100%" alt="Ask Your Bookmarks"/>
+      </a>
+      <br/>
+      <strong>Ask Your Bookmarks</strong>
+      <br/>
+      Semantic search for your saved browser bookmarks using AI.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/baggie11/virtual-photobooth">
+        <img src="https://opengraph.githubassets.com/1/baggie11/virtual-photobooth" width="100%" alt="Virtual Photobooth"/>
+      </a>
+      <br/>
+      <strong>Virtual Photobooth</strong>
+      <br/>
+      A virtual photo experience powered by neural style transfer.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/CrystalFireSword/Anchor">
+        <img src="https://opengraph.githubassets.com/1/CrystalFireSword/Anchor" width="100%" alt="Anchor"/>
+      </a>
+      <br/>
+      <strong>Anchor</strong>
+      <br/>
+      Explore my project repository, implementation and documentation.
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/baggie11/Quiz_App">
+        <img src="https://opengraph.githubassets.com/1/baggie11/Quiz_App" width="100%" alt="QuizVision"/>
+      </a>
+      <br/>
+      <strong>QuizVision</strong>
+      <br/>
+      An accessible, conversational voice-powered quiz platform.
+    </td>
+  </tr>
+</table>
 
 ## Connect with me
 
