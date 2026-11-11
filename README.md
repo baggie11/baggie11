@@ -17,7 +17,11 @@ Software Engineer passionate about building scalable systems and intelligent app
 ## Featured Projects
 
 <p align="center">
-  <a href="https://github.com/CrystalFireSword/Anchor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=CrystalFireSword&repo=Anchor&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=10B981&border_color=30363D&hide_border=true" alt="Anchor" /></a>
+  <a href="https://github.com/baggie11/Ask_your_Bookmarks">
+    <img src="https://opengraph.githubassets.com/1/baggie11/Ask_your_Bookmarks"
+         width="600"
+         alt="Anchor Repository Preview"/>
+  </a>
 </p>
 
 ## Connect with me
