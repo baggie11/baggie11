@@ -40,22 +40,24 @@ Software Engineer passionate about building scalable systems and intelligent app
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/CrystalFireSword/Anchor">
+      <a >
         <img src="https://opengraph.githubassets.com/1/CrystalFireSword/Anchor" width="100%" alt="Anchor"/>
       </a>
       <br/>
       <strong>Anchor</strong>
       <br/>
-      Explore my project repository, implementation and documentation.
+     Anchor is an automated deployment platform designed to orchestrate application builds and deployments.
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/baggie11/Quiz_App">
+      <a">
         <img src="https://opengraph.githubassets.com/1/baggie11/Quiz_App" width="100%" alt="QuizVision"/>
       </a>
       <br/>
       <strong>QuizVision</strong>
       <br/>
-      An accessible, conversational voice-powered quiz platform.
+      Quiz Vision is an interactive quiz platform featuring real-time conversational voice agents. The system enables hosts and instructors to design custom quiz sessions and allows participants to complete quizzes using natural spoken voice interactions powered by real-time speech recognition, language models, and text-to-speech synthesis.
+
+
     </td>
   </tr>
 </table>
